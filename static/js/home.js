@@ -3,7 +3,7 @@ $(function() {
   $(".typed").typed({
     strings: [
       "stat sahildua<br/>" +
-      "><span class='caret'>$</span> Job: Senior Software Engineer, Machine Learning at Google<br/> ^100" +
+      "><span class='caret'>$</span> Job: " + description + "<br/> ^100" +
       "><span class='caret'>$</span> Skills: Machine Learning, Distributed Systems, NLP, Deep Learning, MLOps, Leadership<br/> ^100" +
       "><span class='caret'>$</span> Hobbies: Cricket, Chess<br/> ^300" +
       "><span class='caret'>$</span> Alias: sahildua2305<br/> ^300" +
