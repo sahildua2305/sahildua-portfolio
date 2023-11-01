@@ -7,7 +7,7 @@ $(function() {
       "><span class='caret'>$</span> Skills: Machine Learning, Distributed Systems, NLP, Deep Learning, MLOps, Leadership<br/> ^100" +
       "><span class='caret'>$</span> Hobbies: Cricket, Chess<br/> ^300" +
       "><span class='caret'>$</span> Alias: sahildua2305<br/> ^300" +
-      "><span class='caret'>$</span> Tech Talks: <a href="https://youtube.com/playlist?list=PLfBW8mpprU875sDGuai0uCekLk8oL9xfe&si=2S3PWuoKZgWhkQFb" target="_blank">YouTube Playlist</a> <br/> ^300"
+      "><span class='caret'>$</span> Tech Talks: <a href='https://youtube.com/playlist?list=PLfBW8mpprU875sDGuai0uCekLk8oL9xfe&si=2S3PWuoKZgWhkQFb' target='_blank'>YouTube Playlist</a><br/> ^300"
     ],
     showCursor: true,
     cursorChar: '_',
