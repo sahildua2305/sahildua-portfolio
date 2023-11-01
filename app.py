@@ -9,6 +9,8 @@ app = Flask(__name__)
 common = {
     'first_name': 'Sahil',
     'last_name': 'Dua',
+    'full_name': 'Sahil Dua',
+    'description': 'Senior Machine Learning Engineer at Google',
     'alias': 'sahildua2305'
 }
 

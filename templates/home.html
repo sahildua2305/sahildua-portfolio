@@ -40,9 +40,10 @@
     </div>
     <div class="wrapper scroll-wrapper">
         <div class="top-text">
-            <p class="text-title desktop-view">{{ common.first_name }}</p>
-            <p class="text-title desktop-view">{{ common.last_name }}</p>
-            <p class="text-title mobile-view">{{ common.first_name }} {{ common.last_name }}</p>
+            <p class="text-title desktop-view">{{ common.full_name }}</p>
+            <span class="desktop-view">{{ common.description }}</span>
+            <p class="text-title mobile-view">{{ common.full_name }}</p>
+            <span class="mobile-view">{{ common.description }}</span>
             <div class="social-icons">
                 <a target="_blank" href="https://github.com/sahildua2305">
                     <img class="title-logo" src="static/images/github.svg">

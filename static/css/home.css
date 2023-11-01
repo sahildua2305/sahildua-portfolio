@@ -43,6 +43,12 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.top-text span {
+  font-size: 20px;
+  font-family: monospace;
+  padding: 0 0 5% 0;
+}
+
 .fixed-wrapper {
     position: fixed;
     right: 50%;
@@ -74,6 +80,7 @@ ul li a {
 
 .mobile-view {
   display: none;
+  text-align: center;
 }
 
 .desktop-view {
