@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block head %}
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="{{ url_for('static', filename = 'css/speaking.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 page-title"><h1>My Speaking Engagements</h1></div>
+        {% for year in data %}
+        <div class="col-lg-12">
+            <br/>
+            <h3>{{ year.year }}</h3>
+            {% for talk in year.talks %}
+                <div class="icon-title">
+                    {% if talk.link %}
+                    <h6 class="title"><a href="{{ talk.link }}">{{ talk.name }}</a></h6>
+                    {% else %}
+                    <h6 class="title">{{ talk.name }}</h6>
+                    {% endif %}
+                </div>
+                <p class="content">{{ talk.month }}</p>
+                <p class="content"><b>{{ talk.conference_name }}</b> - {{ talk.location }}</p>
+            {% endfor %}
+            <br/>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

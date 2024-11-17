@@ -11,6 +11,7 @@ common = {
     'last_name': 'Dua',
     'full_name': 'Sahil Dua',
     'description': 'Senior Machine Learning Engineer at Google',
+    'short_description': 'Senior ML Engineer at Google',
     'alias': 'sahildua2305'
 }
 
@@ -20,16 +21,10 @@ def index():
     return render_template('home.html', common=common)
 
 
-# @app.route('/timeline')
-# def timeline():
-#     timeline = get_static_json("static/files/timeline.json")
-#     return render_template('timeline.html', common=common, timeline=timeline)
-
-
-# @app.route('/reading')
-# def reading():
-#     data = get_static_json("static/files/reading.json")
-    # return render_template('reading.html', common=common, data=data)
+@app.route('/speaking')
+def speaking():
+    data = get_static_json("static/files/speaking.json")
+    return render_template('speaking.html', common=common, data=data)
 
 
 # @app.route('/projects')

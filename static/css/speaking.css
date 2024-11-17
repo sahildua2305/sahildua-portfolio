@@ -5,11 +5,20 @@
   font-size: 20px;
 }
 
+.page-title {
+  display: flex;
+  justify-content: center; /* Horizontally center */
+  align-items: center;    /* Vertically center */
+}
+
 .title{
   color: #1377BD;
-  font-size: 16px;
-  margin: 4px;
-  font-weight:500;
+  font-size: 1.2rem;
+  padding: 2rem 0 0 0;
+}
+
+.title.a {
+  color: #1377BD;
 }
 
 .title:hover {
@@ -19,8 +28,7 @@
 .content{
   display:block;
   color: #303030;
-  margin:4px;
-  font-weight:300;
+  margin: 0;
 }
 
 .container{

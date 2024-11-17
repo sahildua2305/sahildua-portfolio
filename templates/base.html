@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>{{ common.full_name }} ({{ common.alias }})</title>
+    <title>{{ common.full_name }} ({{ common.alias }}) - {{short_description}}</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -24,6 +24,7 @@
 <div class="navbar-ul">
     <ul id="navbar-list" class="list-inline">
         <li><a class="navbar-ref" href="/">Home</a></li>
+        <li><a class="navbar-ref" href="/speaking">Speaking</a></li>
         <li><a class="navbar-ref" href="https://youtube.com/playlist?list=PLfBW8mpprU875sDGuai0uCekLk8oL9xfe&si=2S3PWuoKZgWhkQFb" target="_blank">Tech Talks</a></li>
         <li><a class="navbar-ref" href="https://medium.com/@sahildua2305" target="_blank">Blog</a></li>
         <li><a class="navbar-ref" href="https://www.amazon.com/Kubernetes-Workshop-Interactive-Approach-Learning-ebook/dp/B082VFMMTY" target="_blank">Book</a></li>
@@ -33,5 +34,11 @@
 </div>
 {% block body %}
 {% endblock %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.1/typed.min.js'></script>
+    
 </body>
 </html>

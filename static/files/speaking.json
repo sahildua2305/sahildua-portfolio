@@ -1,0 +1,80 @@
+[
+  {
+    "year": "2018",
+    "talks": [
+      {
+        "name": "Keynote: Scaling Deep Learning Models in Production Using Kubernetes",
+        "link": "https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2018/program/schedule/",
+        "conference_name": "KubeCon Europe",
+        "location": "Copenhagen, Denmark",
+        "month": "May"
+      },
+      {
+        "name": "AI Panel Discussion: The Practice & Frontiers of AI",
+        "link": "https://qconlondon.com/london2018/london2018/presentation/tools-put-deep-learning-models-production.html",
+        "conference_name": "QCon London",
+        "location": "London, United Kingdom",
+        "month": "March"
+      },
+      {
+        "name": "Tools to Put Deep Learning Models in Production",
+        "link": "https://qconlondon.com/london2018/london2018/presentation/tools-put-deep-learning-models-production.html",
+        "conference_name": "QCon London",
+        "location": "London, United Kingdom",
+        "month": "March"
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "talks": [
+      {
+        "name": "Long Short-Term Memory (LSTM) models with TensorFlow",
+        "link": "https://mlconference.ai/machine-learning-principles/long-short-term-memory-lstm-models-with-tensorflow/",
+        "conference_name": "MLCon Berlin",
+        "location": "Berlin, Germany",
+        "month": "December"
+      },
+      {
+        "name": "How Booking.com Serves Deep Learning Model Predictions at Large Scale",
+        "link": null,
+        "conference_name": "DevConf PL",
+        "location": "Krakow, Poland",
+        "month": "September"
+      },
+      {
+        "name": "How Booking.com serves Deep Learning Model Predictions",
+        "link": null,
+        "conference_name": "Full Stack Fest",
+        "location": "Barcelona, Spain",
+        "month": "September"
+      },
+      {
+        "name": "How Booking.com serves Deep Learning model predictions",
+        "link": "https://ep2017.europython.eu/conference/talks/how-to-serve-deep-learning-models-at-large-scale.html",
+        "conference_name": "EuroPython",
+        "location": "Rimini, Italy",
+        "month": "July"
+      },
+      {
+        "name": "A/B Testing: Why? What? How?",
+        "link": "https://2017.web2day.co/speakers/sahil-dua/",
+        "conference_name": "Web2Day",
+        "location": "Nantes, France",
+        "month": "June"
+      }
+    ]
+  },
+  {
+    "year": "2016",
+    "talks": [
+      {
+        "name": "Manipulating and analysing multi-dimensional data with Pandas",
+        "link": "",
+        "conference_name": "PyCon DE",
+        "location": "Munich, Germany",
+        "month": "October"
+      }
+    ]
+  }
+]
