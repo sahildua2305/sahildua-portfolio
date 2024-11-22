@@ -1,5 +1,17 @@
 [
   {
+    "year": "2023",
+    "talks": [
+      {
+        "name": "Demystifying Dual Encoders for Retrieval and Scoring Tasks",
+        "link": null,
+        "conference_name": "ML Conference",
+        "location": "Munich, Germany",
+        "month": "June"
+      }
+    ]
+  },
+  {
     "year": "2018",
     "talks": [
       {
