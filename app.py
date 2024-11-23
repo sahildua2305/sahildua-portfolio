@@ -11,7 +11,7 @@ common = {
     'last_name': 'Dua',
     'full_name': 'Sahil Dua',
     'description': 'Senior Machine Learning Engineer at Google',
-    'short_description': 'Senior ML Engineer at Google',
+    'short_description': 'Experienced ML Engineer',
     'alias': 'sahildua2305'
 }
 
