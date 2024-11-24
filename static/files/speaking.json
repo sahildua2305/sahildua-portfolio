@@ -48,6 +48,13 @@
         "month": "December"
       },
       {
+        "name": "How Booking.com serves Deep Learning Predictions at Large Scale",
+        "link": null,
+        "conference_name": "Signal by Twilio",
+        "location": "London, United Kingdom",
+        "month": "September"
+      },
+      {
         "name": "How Booking.com Serves Deep Learning Model Predictions at Large Scale",
         "link": null,
         "conference_name": "DevConf PL",
@@ -74,6 +81,13 @@
         "conference_name": "Web2Day",
         "location": "Nantes, France",
         "month": "June"
+      },
+      {
+        "name": "A/B Testing: Why? What? How?",
+        "link": null,
+        "conference_name": "MobCon Europe",
+        "location": "Sofia, Bulgaria",
+        "month": "March"
       }
     ]
   },
