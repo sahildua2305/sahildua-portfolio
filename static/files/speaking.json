@@ -48,6 +48,13 @@
         "month": "December"
       },
       {
+        "name": "An unconventional way of learning a new programming language",
+        "link": null,
+        "conference_name": "GitHub Constellation",
+        "location": "Amsterdam, Netherlands",
+        "month": "November"
+      },
+      {
         "name": "How Booking.com serves Deep Learning Predictions at Large Scale",
         "link": null,
         "conference_name": "Signal by Twilio",
