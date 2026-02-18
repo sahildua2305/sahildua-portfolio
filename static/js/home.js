@@ -4,7 +4,7 @@ $(function() {
     strings: [
       "stat sahildua<br/>" +
       "><span class='caret'>$</span> Job: " + description + "<br/> ^100" +
-      "><span class='caret'>$</span> Skills: Core Specialities: Large Language Models (LLMs), Information Retrieval, Representation Learning, Pre-training,Post-training, Distillation, Quantization, Compute-efficient Multimodal AI, Retrieval-Augmented Generation (RAG)<br/> ^100" +
+      "><span class='caret'>$</span> Skills: Large Language Models (LLMs), Information Retrieval, Representation Learning, Pre-training,Post-training, Distillation, Quantization, Compute-efficient Multimodal AI, Retrieval-Augmented Generation (RAG)<br/> ^100" +
       // "><span class='caret'>$</span> Hobbies: Cricket, Chess<br/> ^300" +
       "><span class='caret'>$</span> Tech Talks: <a href='https://youtube.com/playlist?list=PLfBW8mpprU875sDGuai0uCekLk8oL9xfe&si=2S3PWuoKZgWhkQFb' target='_blank'>YouTube Playlist</a><br/> ^300"
     ],
