@@ -1,5 +1,17 @@
 [
   {
+    "year": "2025",
+    "talks": [
+      {
+        "name": "Building Embedding Models for Large-Scale Real-World Applications",
+        "link": "https://www.infoq.com/presentations/llm-large-scale-applications/",
+        "conference_name": "QCon London",
+        "location": "London, United Kingdom",
+        "month": "April"
+      }
+    ]
+  },
+  {
     "year": "2023",
     "talks": [
       {
